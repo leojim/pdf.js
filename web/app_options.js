@@ -35,7 +35,7 @@ const defaultOptions = {
   },
   defaultUrl: {
     /** @type {string} */
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: 'Freeman A. - Essential Angular for ASP.NET Core MVC - 2017.pdf',
     kind: OptionKind.VIEWER,
   },
   defaultZoomValue: {

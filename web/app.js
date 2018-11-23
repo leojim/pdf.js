@@ -122,7 +122,7 @@ let PDFViewerApplication = {
   /** @type {EventBus} */
   eventBus: null,
   /** @type {IL10n} */
-  l10n: null,
+  l10n: 'zh-CN',
   isInitialViewSet: false,
   downloadComplete: false,
   isViewerEmbedded: (window.parent !== window),
